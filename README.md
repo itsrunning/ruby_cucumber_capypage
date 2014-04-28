@@ -1,4 +1,4 @@
-[![Build Status]](https://travis-ci.org/itsrunning/ruby_cucumber_capypage)
+[![Build Status](https://travis-ci.org/itsrunning/ruby_cucumber_capypage.svg?branch=master)](https://travis-ci.org/itsrunning/ruby_cucumber_capypage)
 
 ruby_cucumber_capypage
 ======================
