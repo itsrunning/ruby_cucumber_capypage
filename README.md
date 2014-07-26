@@ -5,7 +5,7 @@ ruby_cucumber_capypage
 
 A Ruby/Cucumber web automation framework with Capypage (on top of Capybara) for page object modelling.
 
-Scroll down a bit if you are [new to this tech stack](#new to this tech stack)
+Scroll down a bit if you are [new to this tech stack](#new_to_this_tech_stack)
 
 
 ## Get running...
