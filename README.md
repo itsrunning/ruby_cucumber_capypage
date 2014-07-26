@@ -5,10 +5,10 @@ ruby_cucumber_capypage
 
 A Ruby/Cucumber web automation framework with Capypage (on top of Capybara) for page object modelling.
 
-Scroll down a bit if you are [new to this tech stack](#New to the tech stack)
+Scroll down a bit if you are [new to this tech stack](#new to this tech stack)
 
 
-## Get Running...
+## Get running...
 Step 1: Clone this repository to your local
 ```ruby
 git clone https://github.com/itsrunning/ruby_cucumber_capypage.git
