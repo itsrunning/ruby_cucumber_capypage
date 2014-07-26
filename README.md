@@ -1,5 +1,4 @@
 [![Build Status](https://travis-ci.org/itsrunning/ruby_cucumber_capypage.svg?branch=master)](https://travis-ci.org/itsrunning/ruby_cucumber_capypage)
-
 # Ruby-Cucumber-Capypage test framework
 
 A Ruby/Cucumber web automation framework with Capypage (on top of Capybara) for page object modelling.
