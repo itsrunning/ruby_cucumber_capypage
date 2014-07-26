@@ -1,7 +1,6 @@
 [![Build Status](https://travis-ci.org/itsrunning/ruby_cucumber_capypage.svg?branch=master)](https://travis-ci.org/itsrunning/ruby_cucumber_capypage)
 
-ruby_cucumber_capypage
-======================
+# Ruby-Cucumber-Capypage test framework
 
 A Ruby/Cucumber web automation framework with Capypage (on top of Capybara) for page object modelling.
 
@@ -14,7 +13,7 @@ Step 1: Clone this repository to your local
 git clone https://github.com/itsrunning/ruby_cucumber_capypage.git
 ```
 
-Step 2: Install the gems used in this framework
+Step 2: Provided Ruby is installed, install the gems used in this framework
 ```ruby
 cd ruby_cucumber_capypage
 bundle install
